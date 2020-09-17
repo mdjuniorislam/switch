@@ -1,0 +1,1 @@
+alert("Shabdhan,valo hote poisa lagena");
